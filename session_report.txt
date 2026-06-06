@@ -1,0 +1,15 @@
+Emotion Mirror Pro - Session Report
+==================================
+
+Started At: 2026-06-06 13:43:30
+Ended At: 2026-06-06 13:48:08
+Duration: 0:04:37
+
+Emotion Distribution:
+neutral: 45.68%
+angry: 29.53%
+sad: 11.98%
+happy: 8.85%
+surprise: 3.96%
+
+Dominant Emotion: neutral
