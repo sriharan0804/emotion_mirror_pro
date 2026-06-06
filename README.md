@@ -31,11 +31,23 @@ ________________________________________________________________________________
 
 -> Single Face Detection:
 
+<img width="1273" height="636" alt="Screenshot 2026-06-06 134603" src="https://github.com/user-attachments/assets/55ef2dfb-891d-49b7-b6a4-3f504dfcc766" />
+
+
 -> Multiple Face Detection:
+
+<img width="1274" height="632" alt="Screenshot 2026-06-06 134804" src="https://github.com/user-attachments/assets/ee76e827-9a94-41d8-8cdc-5f5799eb6843" />
+
 
 -> Dashboard View:
 
+<img width="1274" height="632" alt="Screenshot 2026-06-06 134804" src="https://github.com/user-attachments/assets/4f9343f8-bee6-4d7e-b06b-ca72ed95d967" />
+
+
 -> Session Report:
+
+<img width="833" height="388" alt="Screenshot 2026-06-06 134916" src="https://github.com/user-attachments/assets/56245226-f8fa-4a97-88a0-447522862778" />
+
 
 ___________________________________________________________________________________
 -----Project Structure-----
