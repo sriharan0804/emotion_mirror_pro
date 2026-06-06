@@ -174,5 +174,7 @@ Through this project I gained hands-on experience with:
 ______________________________________________________________________________________________
 
 AUTHOR:
+
 Sri Haran
+
 Emotion Mirror pro - Bipolar Factory Assesment
